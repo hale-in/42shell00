@@ -1,0 +1,5 @@
+Credentials cache: API:F2742945-B310-4F6E-86D6-D4D910C79719
+        Principal: taeheeki@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb 16 00:04:30 2021  Feb 16 10:04:27 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
