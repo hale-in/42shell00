@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo "last 5 ID"
-
-exit 0

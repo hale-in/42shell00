@@ -1,5 +1,6 @@
-Credentials cache: API:F2742945-B310-4F6E-86D6-D4D910C79719
+Credentials cache: API:C0C636C2-46DC-48AB-B5D5-AB403266D323
         Principal: taeheeki@42SEOUL.KR
 
   Issued                Expires               Principal
-Feb 16 00:04:30 2021  Feb 16 10:04:27 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
+Feb 22 09:14:01 2021  Feb 22 19:14:01 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
+Feb 22 09:14:03 2021  Feb 22 19:14:01 2021  HTTP/student-storage.42seoul.kr@42SEOUL.KR
